@@ -29,8 +29,6 @@ Movie revenue prediction and success analysis using R and TMDB 5000 dataset.
 ### Vote Count vs Revenue
 ![Vote Count vs Revenue](plots/vote_count_vs_revenue.png)
 
-### Residuals vs Fitted
-![Residuals vs Fitted](plots/residuals_vs_fitted.png)
 
 ### Residuals vs Fitted
 ![Residuals vs Fitted](plots/residuals_vs_fitted.png)
